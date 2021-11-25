@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Information and Communication Technology, Dhirubhai Ambani Institute of Information and Communication Technology, 2014
+* B.Tech. in Information and Communication Technology, DA-IICT, 2014
 * M.S. in Computer Science, Georgia Institute of Technology, 2015
 * Ph.D in Computer Science, University de Montreal, 2026 (expected)
 
@@ -54,7 +54,13 @@ Publications
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
+Patents
+======
+  <ul>{% for post in site.patents %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+ 
 Awards and Achievements
 ======
 * Participated and won ML4SETI Hackathon'17 under the "Best Classifier without Neural Networks and Signal Processing" category at San Francisco, USA.
