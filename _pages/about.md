@@ -15,4 +15,4 @@ After that, I worked as a deep learning software engineer in perception for auto
 
 I am broadly interested in theory of deep learning, optimization for games and robustness against adversarial attacks.
 
-Currently, I am interested in understanding stability in min-max optimization especially in the context of Adversarial training using stability concepts from Control Theory
+Currently, I am interested in understanding stability in min-max optimization especially in the context of Adversarial training using stability concepts from Control Theory.
